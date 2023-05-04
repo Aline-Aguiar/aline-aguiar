@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 <div>
   <a href="https://github.com/aline-aguiar">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Siga-me nas redes sociais!
  
 <div> 
   <a href="https://www.instagram.com/lily_sv_ly/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
